@@ -1,10 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-/* main - this is the function*/
-/* Return - is always */
-/* betty style doc for function main goes there */
+/**
+ * main - this is the main function
+ * Return: always o
+ */
+
+/* more headers goes there*/
+
+/* betty style doc for function main goes there*/
 int main(void)
 {
 	int n;
