@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
-main - where the code starts reading
-Return: 0
+*main - where the code starts reading
+*Return: 0
 */
 
 int main(void)
