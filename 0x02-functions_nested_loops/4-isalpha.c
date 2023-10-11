@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * _isalpha - check the code
  *@c:  character to be checked
  * Return: 0
+ *
  */
 
 int _isalpha(int c)
