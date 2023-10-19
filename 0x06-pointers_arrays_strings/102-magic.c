@@ -1,4 +1,8 @@
 #include <stdio.h>
+/*
+ *Main- Prints the value of `a[2]` to the console
+ *@return 0 on success, non-zero on failure.
+ */
 
 int main(void)
 {
