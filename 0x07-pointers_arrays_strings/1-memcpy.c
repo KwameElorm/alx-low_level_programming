@@ -3,7 +3,7 @@
 /**
   * _memcpy - main function
   * @src: Source parameter
-  * @dest: Destination 
+  * @dest: Destination
   * @n: Function
   * Return: dest
   */
