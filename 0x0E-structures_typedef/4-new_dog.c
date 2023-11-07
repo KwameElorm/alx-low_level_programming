@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdlib.h>
 #include "dog.h"
 
 /**
@@ -41,7 +41,7 @@ char *_strcpy(char *dest, char *src)
 
 	for (i = 0; i < len; i++)
 	{
-		dest[i] - src[i];
+		dest[i] = src[i];
 	}
 	dest[i] = '\0';
 	return (dest);
