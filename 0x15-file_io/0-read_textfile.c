@@ -4,7 +4,11 @@
  * read_textfile - function that reads a text file
  * and prints it to the POSIX standard output
  * @filename: filename
+<<<<<<< HEAD
  * @letters: numbers of letters printed
+=======
+ * @letters: numbers of letters printed.
+>>>>>>> 00b0edd34642518540a64be800eb9c5af93e0275
  *
  * Return: numbers of letters printed. It fails, returns 0.
  */
