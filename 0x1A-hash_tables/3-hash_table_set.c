@@ -6,7 +6,8 @@
  * @key: key to add the element
  * @value: value to add the element
  *
- * Return: 1 if it succeeded, else 0 
+ * Return: 1 if it succeeded, else 0 finish 
+
  */
 
 int hash_table_set(hash_table_t *ht, const char *key, const char *value)
